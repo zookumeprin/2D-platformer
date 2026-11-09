@@ -1,0 +1,12 @@
+gameclearsound.mp3
+goalsound.mp3
+itemsound.mp3
+player_climb.png
+player_idle.png
+player_jump.png
+player_run.png
+stage.png
+stage1.tmx
+stage2.tmx
+stage3.tmx
+tileset.png
